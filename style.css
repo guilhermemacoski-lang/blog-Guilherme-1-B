@@ -1,3 +1,9 @@
-body {
-    background-color: blue
+.cabecalho {
+    background-color: rgb(0, 255, 136) 
+    text-aling : center;
+    max-width:800px;
+}
+.conteudo-principal{
+background-color:blue 
+
 }
